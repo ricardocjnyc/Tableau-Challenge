@@ -1,0 +1,25 @@
+
+
+
+Files
+
+Citibike 2020 file:
+https://public.tableau.com/profile/ricardo.calderon#!/vizhome/Citibike_2020/Totaltrips2013-218?publish=yes
+https://public.tableau.com/profile/ricardo.calderon#!/vizhome/Citibike_2020/Winterhours2013-2018?publish=yes
+https://public.tableau.com/profile/ricardo.calderon#!/vizhome/Citibike_2020/Summerhours2013-2018?publish=yes
+https://public.tableau.com/profile/ricardo.calderon#!/vizhome/Citibike_2020/Totaltripspermonth2013-2018?publish=yes
+https://public.tableau.com/profile/ricardo.calderon#!/vizhome/Citibike_2020/Dashboard1?publish=yes
+https://public.tableau.com/profile/ricardo.calderon#!/vizhome/Citibike_2020/Story1?publish=yes
+
+Citibike gender 2020:
+https://public.tableau.com/profile/ricardo.calderon#!/vizhome/Citibike_gender_2020/MaleCount?publish=yes
+https://public.tableau.com/profile/ricardo.calderon#!/vizhome/Citibike_gender_2020/FemaleCount?publish=yes
+https://public.tableau.com/profile/ricardo.calderon#!/vizhome/Citibike_gender_2020/Dashboard2?publish=yes
+
+Average trip duration 2020 file:
+https://public.tableau.com/profile/ricardo.calderon#!/vizhome/Average_trip_duration_2020/Averagetripduration?publish=yes
+
+StationID_End_Start_Citibike file:
+https://public.tableau.com/profile/ricardo.calderon#!/vizhome/StationID_End_Start_Citibike/StationID-End?publish=yes
+https://public.tableau.com/profile/ricardo.calderon#!/vizhome/StationID_End_Start_Citibike/StationID-Start-End?publish=yes
+https://public.tableau.com/profile/ricardo.calderon#!/vizhome/StationID_End_Start_Citibike/StationID-Start?publish=yes
